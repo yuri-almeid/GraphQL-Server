@@ -1,0 +1,24 @@
+{
+  "name": "graphql-server",
+  "version": "1.0.0",
+  "description": "This is only a learning repository! I just created this to know how to use the GraphQL.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "graphpack",
+    "build": "graphpack build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yuri-almeid/GraphQL-Server.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yuri-almeid/GraphQL-Server/issues"
+  },
+  "homepage": "https://github.com/yuri-almeid/GraphQL-Server#readme",
+  "devDependencies": {
+    "graphpack": "^1.0.9"
+  }
+}
